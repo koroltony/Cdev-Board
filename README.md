@@ -1,2 +1,2 @@
-# Cdev-Board
-Eagle PCB development board documentation **no eagle files, cause it's proprietary** :)
+# C-DEV-Board
+Repository to track HW development of NexStream's C-Dev Board
