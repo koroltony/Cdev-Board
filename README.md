@@ -1,2 +1,3 @@
 # C-DEV-Board
-Repository to track HW development of NexStream's C-Dev Board
+
+Documentation of CDEV board project **archived because proprietary :)**
